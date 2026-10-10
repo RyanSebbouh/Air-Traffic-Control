@@ -1,0 +1,10 @@
+Chenes,8,20,3
+Neuville,11,8,4
+St-Martin,20,36,3
+Pau,29,20,3
+Cerclades,32,10,4
+Pasteur,44,25,4
+Hirsch,63,29,3
+Parc,55,17,4
+Antony,55,38,4
+Turbine,63,9,3
